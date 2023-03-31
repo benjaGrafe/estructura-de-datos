@@ -1,0 +1,12 @@
+C:\Users\Aiko\Desktop\PryEstructura de Datos\obj\Debug\PryEstructura de Datos.csproj.AssemblyReference.cache
+C:\Users\Aiko\Desktop\PryEstructura de Datos\obj\Debug\PryEstructura de Datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aiko\Desktop\PryEstructura de Datos\obj\Debug\PryEstructura_de_Datos.frmSist.resources
+C:\Users\Aiko\Desktop\PryEstructura de Datos\obj\Debug\PryEstructura_de_Datos.Properties.Resources.resources
+C:\Users\Aiko\Desktop\PryEstructura de Datos\obj\Debug\PryEstructura de Datos.csproj.GenerateResource.cache
+C:\Users\Aiko\Desktop\PryEstructura de Datos\obj\Debug\PryEstructura de Datos.csproj.CoreCompileInputs.cache
+C:\Users\Aiko\Desktop\PryEstructura de Datos\bin\Debug\PryEstructura de Datos.exe.config
+C:\Users\Aiko\Desktop\PryEstructura de Datos\bin\Debug\PryEstructura de Datos.exe
+C:\Users\Aiko\Desktop\PryEstructura de Datos\bin\Debug\PryEstructura de Datos.pdb
+C:\Users\Aiko\Desktop\PryEstructura de Datos\obj\Debug\PryEstructura_de_Datos.frmStructuradato.resources
+C:\Users\Aiko\Desktop\PryEstructura de Datos\obj\Debug\PryEstructura de Datos.exe
+C:\Users\Aiko\Desktop\PryEstructura de Datos\obj\Debug\PryEstructura de Datos.pdb
